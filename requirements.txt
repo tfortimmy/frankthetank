@@ -11,6 +11,8 @@ enum34==1.1.6
 gast==0.2.2
 grpcio==1.20.1
 h5py==2.9.0
+image-classifiers==0.2.0
+imageio==2.5.0
 ipykernel==5.1.0
 ipython==7.5.0
 ipython-genutils==0.2.0
@@ -31,6 +33,7 @@ Keras==2.2.4
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 kiwisolver==1.1.0
+llvmlite==0.29.0
 Markdown==3.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
@@ -38,7 +41,9 @@ mistune==0.8.4
 mock==2.0.0
 nbconvert==5.5.0
 nbformat==4.4.0
+networkx==2.3
 notebook==5.7.8
+numba==0.45.1
 numpy==1.16.3
 opencv-python==4.1.0.25
 pandas==0.24.2
@@ -60,11 +65,14 @@ pyrsistent==0.15.1
 python-apt==1.1.0b1+ubuntu0.16.4.2
 python-dateutil==2.8.0
 pytz==2019.2
+PyWavelets==1.0.3
 PyYAML==5.1.2
 pyzmq==18.0.1
 qtconsole==4.4.3
+scikit-image==0.15.0
 scikit-learn==0.21.3
 scipy==1.3.1
+segmentation-models==0.2.1
 Send2Trash==1.5.0
 six==1.12.0
 sklearn==0.0
